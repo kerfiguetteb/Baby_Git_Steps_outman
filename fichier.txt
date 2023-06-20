@@ -1,1 +1,6 @@
-creation du nouveau fichier txt pour essaie et d'un conflit
+jernitoN
+creation du nouveau fichier txt pour essaie
+cool les conflits
+c'est géniale la vie de dev, on vas se faire plein les poches et bosser sur un pilotti au bord de la plage
+
+
