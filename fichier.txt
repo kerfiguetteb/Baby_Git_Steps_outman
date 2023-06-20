@@ -1,1 +1,2 @@
 creation du nouveau fichier txt pour essaie et d'un conflit
+ceci est un test
