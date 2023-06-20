@@ -1,1 +1,6 @@
+<<<<<<< HEAD
 creation du nouveau fichier txt pour essaie et d'un conflit
+=======
+"Fausse manip : CHEH !
+
+>>>>>>> 44d1d03da2daf63641c81994858e0163c485c48b
